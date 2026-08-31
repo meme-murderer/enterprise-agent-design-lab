@@ -65,7 +65,9 @@ The participant journey is:
 
 The [build narrative](HOW_WE_BUILT_AND_REVISED_THE_LAB.md) explains how v1, v2, and the educational-design, executive-content, and UX reviews arrived at this design.
 
-The [six-panel illustrated reference](docs/assets/enterprise-agent-design-comic.png) summarizes the learning sequence: frame the decision, choose the boundary, define the contract, consider failure, revise, and document the controls. It depicts the design conversation, not actions executed by this application.
+The cartoon summarizes the learning sequence: frame the decision, choose the boundary, define the contract, consider failure, revise, and document the controls. It depicts the design conversation, not actions executed by this application.
+
+![Six-panel cartoon: frame the decision, choose the least necessary autonomy, write the operating contract, run a pre-mortem, revise the design, and document ownership, approval, evaluation, monitoring, stop conditions, and rollback.](docs/assets/enterprise-agent-design-comic.png)
 
 ## Run locally
 
